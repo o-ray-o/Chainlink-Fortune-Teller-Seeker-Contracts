@@ -1,0 +1,18 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IFortuneTeller",
+  "sourceName": "contracts/FortuneSeeker.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "seekFortune",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
